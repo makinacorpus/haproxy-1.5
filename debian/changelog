@@ -1,4 +1,16 @@
-haproxy (1.5.12-vivid-ubuntu28) vivid; urgency=medium
+haproxy (1.5.12-vivid-ubuntu30) vivid; urgency=medium
+
+  * packaging for vivid
+
+ -- Mathieu Le Marec - Pasquet <kiorky@cryptelium.net>  Mon, 25 May 2015 17:20:02 +0200
+
+haproxy (1.5.12-vivid-ubuntu29) vivid; urgency=medium
+
+  * packaging for trusty
+
+ -- Mathieu Le Marec - Pasquet <kiorky@cryptelium.net>  Mon, 25 May 2015 17:19:46 +0200
+
+haproxy (1.5.12-trusty-ubuntu28) trusty; urgency=medium
 
   * packaging for vivid
 
